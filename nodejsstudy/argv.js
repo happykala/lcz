@@ -5,3 +5,4 @@
  @param .
  */
 console.log(process.argv);
+console.log(1212);
