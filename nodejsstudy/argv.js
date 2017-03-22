@@ -6,3 +6,4 @@
  */
 console.log(process.argv);
 console.log(1212);
+console.log('hello world');
