@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Electron Main",
-            "program": "${workspaceRoot}/hello/main.js",
+            "program": "${workspaceRoot}/hello/readfile.js",
             "protocol": "legacy"
         }
     ]
